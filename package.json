@@ -1,0 +1,19 @@
+{
+  "name": "blog-tool",
+  "version": "1.0.0",
+  "description": "use as command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konce/blog-tool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konce/blog-tool/issues"
+  },
+  "homepage": "https://github.com/konce/blog-tool#readme"
+}
