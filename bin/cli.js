@@ -6,8 +6,6 @@ program.version('0.0.1');
 program
   .command('preview [dir]')
   .description('实时预览')
-  .action(function (dir) {
-    console.log('preview %s', dir);
-  });
+  .action(require('../lib/preview'));
 
 program.parse(process.argv);
